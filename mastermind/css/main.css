@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: wheat;
+}
+h1 {
+  text-align: center;
+  color: chartreuse;
+  font-size: 65px;
+}
+.container {
+  text-align: center;
+  width: 70%;
+  margin: auto;
+  margin-top: 25px;
+  border-radius: 65%;
+}
+.answer1 {
+  border-radius: 15%;
+  width: 150px;
+  height: 30px;
+}
+.answer2 {
+  border-radius: 15%;
+  width: 150px;
+  height: 30px;
+}
+.answer3 {
+  border-radius: 15%;
+  width: 150px;
+  height: 30px;
+}
+.answer4 {
+  border-radius: 15%;
+  width: 150px;
+  height: 30px;
+}
